@@ -22,5 +22,6 @@ namespace TimeManagementSystem
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+
     }
 }
