@@ -378,3 +378,4 @@ B:\Study\[ДИПЛОМ] 2019\[ДИПЛОМ] Материалы\TimeManagementSys
 B:\Study\[ДИПЛОМ] 2019\[ДИПЛОМ] Материалы\TimeManagementSystem\TimeManagementSystem\obj\Debug\netcoreapp3.1\TimeManagementSystem.dll
 B:\Study\[ДИПЛОМ] 2019\[ДИПЛОМ] Материалы\TimeManagementSystem\TimeManagementSystem\obj\Debug\netcoreapp3.1\TimeManagementSystem.pdb
 B:\Study\[ДИПЛОМ] 2019\[ДИПЛОМ] Материалы\TimeManagementSystem\TimeManagementSystem\obj\Debug\netcoreapp3.1\TimeManagementSystem.genruntimeconfig.cache
+B:\Study\[ДИПЛОМ] 2019\[ДИПЛОМ] Материалы\TimeManagementSystem\TimeManagementSystem\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
