@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0LgKISSh4PxipR7kxbxUYAWR9ErM5iMPDWPFuZ9SBB6fFEPk4IarwYxuw/aciTGZo6Sz8v6kOi/Nvc9mr7u6RQ==",
+  "dgSpecHash": "0I4POjwrDbuwPjZ1HmN9SF/m8Dhviy2PD4g7/ZUZ1lJ3GoN0zBd4D7uL9H/tgKkJHWgJqEMbdmsAYLbD2O3/YQ==",
   "success": true,
-  "projectFilePath": "B:\\Study\\[ДИПЛОМ] 2019\\[ДИПЛОМ] Материалы\\TimeManagementSystem\\TimeManagementSystem\\TimeManagementSystem.csproj",
+  "projectFilePath": "B:\\Study\\TimeManagementSystem\\TimeManagementSystem\\TimeManagementSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Frozen_Heart\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.8\\microsoft.aspnetcore.mvc.razor.extensions.3.1.8.nupkg.sha512",
     "C:\\Users\\Frozen_Heart\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\3.1.8\\microsoft.aspnetcore.mvc.razor.runtimecompilation.3.1.8.nupkg.sha512",

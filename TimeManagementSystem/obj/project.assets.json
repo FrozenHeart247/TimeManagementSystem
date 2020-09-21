@@ -6179,11 +6179,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\Study\\[ДИПЛОМ] 2019\\[ДИПЛОМ] Материалы\\TimeManagementSystem\\TimeManagementSystem\\TimeManagementSystem.csproj",
+      "projectUniqueName": "B:\\Study\\TimeManagementSystem\\TimeManagementSystem\\TimeManagementSystem.csproj",
       "projectName": "TimeManagementSystem",
-      "projectPath": "B:\\Study\\[ДИПЛОМ] 2019\\[ДИПЛОМ] Материалы\\TimeManagementSystem\\TimeManagementSystem\\TimeManagementSystem.csproj",
+      "projectPath": "B:\\Study\\TimeManagementSystem\\TimeManagementSystem\\TimeManagementSystem.csproj",
       "packagesPath": "C:\\Users\\Frozen_Heart\\.nuget\\packages\\",
-      "outputPath": "B:\\Study\\[ДИПЛОМ] 2019\\[ДИПЛОМ] Материалы\\TimeManagementSystem\\TimeManagementSystem\\obj\\",
+      "outputPath": "B:\\Study\\TimeManagementSystem\\TimeManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Frozen_Heart\\AppData\\Roaming\\NuGet\\NuGet.Config",
