@@ -36,28 +36,35 @@ namespace TimeManagementSystem.Controllers
 //ConfigureServices контекст данных устанавливается как сервис, 
 //то в конструкторе контроллера мы можем получить переданный контекст данных.
         private AppDBContext db;
-        public HomeController(AppDBContext context)  //?Типа связываем конекст с конструктором?
+        public HomeController(AppDBContext context)  //?Передаем контекст в конструктор?
         {
             db = context;
         }
         //Теперь добавим в контроллер три метода, которые будут добавлять новый объект в базу данных и выводить из нее все объекты:
-        public async Task<IActionResult> Index()
-        {
- //С помощью метода db.Users.ToListAsnc() мы будем получать объекты из бд, создавать из них список и передавать в представление.
-            return View(await db.Users.ToListAsync());
-        }
+       
         public IActionResult Create()
         {
             return View();
+        }
+        public IActionResult Index()
+        {
+            
+            return View();
+        }
+        public async Task<IActionResult> SomeProjectExample()  //С помощью метода db.Users.ToListAsnc() мы будем получать объекты из бд, создавать из них список и передавать в представление.
+        {
+            ViewBag.Perc = 10;
+          return View(await db.Users.ToListAsync());
         }
         //При помощи метода db.Users.Add() для данных из объекта user формируется sql-выражение INSERT, 
         //а метод db.SaveChangesAsync() выполняет это выражение, тем самым добавляя данные в базу данных.
         [HttpPost]
         public async Task<IActionResult> Create(User user)
         {
+            ViewData["Ou"] = "Heelo";
             db.Users.Add(user);
             await db.SaveChangesAsync();
-            return RedirectToAction("Index");
+            return RedirectToAction("SomeProjectExample");
         }
     }
 }

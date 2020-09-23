@@ -732,7 +732,6 @@ B:\Study\TimeManagementSystem\TimeManagementSystem\bin\Debug\netcoreapp3.1\runti
 B:\Study\TimeManagementSystem\TimeManagementSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 B:\Study\TimeManagementSystem\TimeManagementSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 B:\Study\TimeManagementSystem\TimeManagementSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-B:\Study\TimeManagementSystem\TimeManagementSystem\obj\Debug\netcoreapp3.1\TimeManagementSystem.csprojAssemblyReference.cache
 B:\Study\TimeManagementSystem\TimeManagementSystem\obj\Debug\netcoreapp3.1\TimeManagementSystem.AssemblyInfoInputs.cache
 B:\Study\TimeManagementSystem\TimeManagementSystem\obj\Debug\netcoreapp3.1\TimeManagementSystem.AssemblyInfo.cs
 B:\Study\TimeManagementSystem\TimeManagementSystem\obj\Debug\netcoreapp3.1\TimeManagementSystem.csproj.CoreCompileInputs.cache
@@ -760,3 +759,6 @@ B:\Study\TimeManagementSystem\TimeManagementSystem\obj\Debug\netcoreapp3.1\stati
 B:\Study\TimeManagementSystem\TimeManagementSystem\obj\Debug\netcoreapp3.1\TimeManagementSystem.dll
 B:\Study\TimeManagementSystem\TimeManagementSystem\obj\Debug\netcoreapp3.1\TimeManagementSystem.pdb
 B:\Study\TimeManagementSystem\TimeManagementSystem\obj\Debug\netcoreapp3.1\TimeManagementSystem.genruntimeconfig.cache
+B:\Study\TimeManagementSystem\TimeManagementSystem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProgrammerLayout.cshtml.g.cs
+B:\Study\TimeManagementSystem\TimeManagementSystem\obj\Debug\netcoreapp3.1\Razor\Views\Home\SomeProjectExample.cshtml.g.cs
+B:\Study\TimeManagementSystem\TimeManagementSystem\obj\Debug\netcoreapp3.1\TimeManagementSystem.csprojAssemblyReference.cache

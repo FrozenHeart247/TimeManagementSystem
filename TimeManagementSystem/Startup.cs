@@ -29,7 +29,7 @@ namespace TimeManagementSystem
             string connection = Configuration.GetConnectionString("DefaultConnection");
             // добавляем контекст в качестве сервиса в приложение
             services.AddDbContext<AppDBContext>(options => options.UseSqlServer(connection));
-            services.AddControllersWithViews();
+            services.AddControllersWithViews().AddRazorRuntimeCompilation();
            
 
         }
